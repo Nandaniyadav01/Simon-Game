@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.box{
+    margin :10px;
+    border: 10px solid black ;
+    border-radius: 2cqi;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    box-shadow: 10%;
+}
+#container{
+    height:500px;
+    width: 500px;
+    margin: auto;
+}
+.red{
+    background-color: rgb(200,50,20);
+}
+.green{
+    background-color: rgb(16, 106, 16);
+    
+}
+.yellow{
+    background-color: rgb(182, 182, 43);
+}
+.blue{
+    background-color: rgb(27, 27, 83);
+}
+.flash{
+    background-color: white;
+}
